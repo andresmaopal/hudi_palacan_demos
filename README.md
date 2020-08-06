@@ -2,7 +2,7 @@
 
 ## Slides to introduce Hudi on EMR
 
-Hudi - incremental dara processing on EMR.pdf
+Hudi - incremental data processing on EMR.pdf
 
 ## Jupyter Notebooks
 
